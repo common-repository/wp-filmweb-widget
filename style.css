@@ -1,0 +1,134 @@
+.wp-filmweb-widget-container {
+	width: 100%;
+	height: auto;
+}
+
+.wp-filmweb-widget-container > ul {
+	display:inline-block;
+}
+
+.wp-filmweb-widget-avatar {
+	margin-bottom: 15px;
+	position: relative;
+	text-align: center;
+	width: 100%;
+}
+
+.wp-filmweb-widget-name {
+	position: absolute;
+	width: 100%;
+	color: #fff;
+	left: 0px;
+}
+
+.wp-filmweb-widget-name-top {
+	top: 5px;
+}
+
+.wp-filmweb-widget-name-bottom {
+	bottom: 5px;
+}
+
+.wp-filmweb-widget-movie {
+	width: 100%;
+	float: left;
+}
+
+.wp-filmweb-widget-movie-info {
+	height: 100%;
+	font-size: 8pt;
+	line-height: 16px;
+}
+
+.wp-filmweb-widget-movie-info a {
+	width: 100%;
+	display: block;
+	font-size: 11pt;
+	line-height: 22px;
+}
+
+.wp-filmweb-widget-movie-movieYear {
+	width: auto;
+	float: left;
+	padding-right: 5px;
+	border-right: 1px solid #c2c2c2;
+}
+
+.wp-filmweb-widget-movie-ratingDate {
+	width: auto;
+	float: left;
+	padding-left: 5px;
+	padding-right: 5px;
+	border-right: 1px solid #c2c2c2;
+}
+
+.wp-filmweb-widget-movie-rating {
+	width: 30%;
+	float: left;
+	padding-left: 5px;
+}
+
+.wp-filmweb-widget-movie-poster {
+	width: 38px;
+	float: left; 
+	height: 50px;
+	margin: 5px;
+}
+
+.wp-filmweb-widget-movie-rating-stars {
+	float: left;
+	width: 180px;
+	height: 16px;
+	display: inline-block;
+	background-size: auto;
+	background-clip: border-box;
+	background-repeat: no-repeat;
+	background-attachment: scroll;
+	background-attachment: scroll;
+	background-origin: padding-box;
+	background-image: url( 'images/stars.png' );
+}
+
+.wp-filmweb-widget-movie-rating-stars-0 {
+	background-position: -180px 0px;
+}
+
+.wp-filmweb-widget-movie-rating-stars-1 {
+	background-position: -162px 0px;
+}
+
+.wp-filmweb-widget-movie-rating-stars-2 {
+	background-position: -144px 0px;
+}
+
+.wp-filmweb-widget-movie-rating-stars-3 {
+	background-position: -126px 0px;
+}
+
+.wp-filmweb-widget-movie-rating-stars-4 {
+	background-position: -108px 0px;
+}
+
+.wp-filmweb-widget-movie-rating-stars-5 {
+	background-position: -90px 0px;
+}
+
+.wp-filmweb-widget-movie-rating-stars-6 {
+	background-position: -72px 0px;
+}
+
+.wp-filmweb-widget-movie-rating-stars-7 {
+	background-position: -54px 0px;
+}
+
+.wp-filmweb-widget-movie-rating-stars-8 {
+	background-position: -36px 0px;
+}
+
+.wp-filmweb-widget-movie-rating-stars-9 {
+	background-position: -18px 0px;
+}
+
+.wp-filmweb-widget-movie-rating-stars-10 {
+	background-position: 0px 0px;
+}

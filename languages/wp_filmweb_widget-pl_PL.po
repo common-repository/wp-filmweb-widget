@@ -1,0 +1,89 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WP-Filmweb-Widget\n"
+"POT-Creation-Date: 2015-08-19 14:13+0200\n"
+"PO-Revision-Date: 2016-02-09 16:25+0100\n"
+"Last-Translator: Mateusz Adamus <mateusz.adamus@gmail.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.4\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"Language: pl_PL\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: wp-filmweb-widget.php:15
+msgid "Shows basic user data from Filmweb.pl portal"
+msgstr "Pokazuje podstawowe informacje o użytkowniku portalu Filmweb.pl"
+
+#: wp-filmweb-widget.php:35
+msgid "Error loading Filmweb data"
+msgstr "Bład wczytywania danych Filmweb"
+
+#: wp-filmweb-widget.php:39
+msgid "Please enter Filmweb username in the widget's settings"
+msgstr "Proszę wprowadzić nazwę użytkownika Filmweb w ustawieniach widgetu"
+
+#: wp-filmweb-widget.php:60
+msgid "Filmweb Username:"
+msgstr "Użytkownik Filmweb:"
+
+#: wp-filmweb-widget.php:66
+msgid "Username Position:"
+msgstr "Położenie nazwy użytkownika:"
+
+#: wp-filmweb-widget.php:70
+msgid "hidden"
+msgstr "ukryty"
+
+#: wp-filmweb-widget.php:79
+msgid "bottom"
+msgstr "dół"
+
+#: wp-filmweb-widget.php:85
+msgid "top"
+msgstr "góra"
+
+#: wp-filmweb-widget.php:92
+msgid "Avatar Size:"
+msgstr "Rozmiar avatara:"
+
+#: wp-filmweb-widget.php:105
+msgid "small"
+msgstr "mały"
+
+#: wp-filmweb-widget.php:111
+msgid "large"
+msgstr "duży"
+
+#: wp-filmweb-widget.php:118
+msgid "Top Rated Movies Count:"
+msgstr "Liczba najwyżej ocenionych"
+
+msgid "Show Top Rated Movies Label:"
+msgstr "Pokaż etykietę najwyżej ocenionych filmów"
+
+#: wp-filmweb-widget.php:133
+msgid "Last Seen Movies Count:"
+msgstr "Liczba ostatnio obejrzanych"
+
+msgid "Show Last Seen Movies Label:"
+msgstr "Pokaż etykietę ostatnio obejrzanych filmów"
+
+#: WPFilmWebWidget.php:259
+msgid "Last Seen Movies"
+msgstr "Ostatnio obejrzane"
+
+#: WPFilmWebWidget.php:275
+msgid "Top Rated Movies"
+msgstr "Najwyżej ocenione"
+
+msgid "yes"
+msgstr "Tak"
+
+msgid "no"
+msgstr "Nie"
+
